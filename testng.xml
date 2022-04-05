@@ -5,7 +5,7 @@
     <classes>
       <class name="mavenpackage.APITest"/>
       <class name="mavenpackage.UITest"/>
-      <!-- class name="mavenpackage.AppiumTest"/-->
+      <class name="mavenpackage.AppiumTest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
